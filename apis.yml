@@ -1,0 +1,98 @@
+name: LyondellBasell
+description: |-
+  LyondellBasell Industries N.V. (NYSE: LYB) is one of the world's largest
+  producers of polymers and plastic resins, including polyethylene, polypropylene,
+  and specialty polyolefins such as Catalloy and Polybutene-1. The company also
+  produces chemicals, fuels, polyolefin process technology, and advanced polymer
+  solutions, and operates a Circular & Low Carbon Solutions (CLCS) business
+  marketing CirculenRecover and CirculenRenew recycled and renewable polymers.
+
+  LyondellBasell has no public developer program, no API documentation, and no
+  source code published in its (empty) GitHub organization. In January 2025 the
+  company began the permanent closure of its Houston Refining facility — the
+  263,776 bpd, full-conversion plant that was the first refinery on the Houston
+  Ship Channel when it opened in 1918 — eliminating more than 400 jobs and
+  exiting the refining business entirely. Profiled as a Tier 3 industrial /
+  no-APIs provider for portfolio completeness.
+image: https://avatars.githubusercontent.com/u/lyondellbasell
+url: https://github.com/api-evangelist/lyondellbasell
+created: 2026-05-23
+modified: 2026-05-23
+specificationVersion: "0.20"
+tags:
+  - Petrochemicals
+  - Polymers
+  - Polyolefins
+  - Polyethylene
+  - Polypropylene
+  - Chemicals
+  - Plastics
+  - Refining
+  - Industrial
+  - Sustainability
+  - Recycled Plastics
+  - No APIs
+apis: []
+common:
+  - type: Website
+    url: https://www.lyondellbasell.com
+  - type: AboutUs
+    url: https://www.lyondellbasell.com/en/about-us/
+  - type: ProductsAndTechnology
+    url: https://www.lyondellbasell.com/en/products-technology/
+  - type: NewsAndEvents
+    url: https://www.lyondellbasell.com/en/news-events/
+  - type: InvestorRelations
+    url: https://investors.lyondellbasell.com/overview/
+  - type: Sustainability
+    url: https://www.lyondellbasell.com/en/sustainability/
+  - type: Careers
+    url: https://www.lyondellbasell.com/en/careers/
+  - type: GitHubOrganization
+    url: https://github.com/LyondellBasell
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lyondellbasell/
+  - type: StockTicker
+    url: https://www.nyse.com/quote/XNYS:LYB
+  - type: SECFilings
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001489393
+x-common:
+  - type: x-ticker
+    value: "NYSE: LYB"
+  - type: x-cik
+    value: "0001489393"
+  - type: x-employee-count
+    value: "~19,000"
+  - type: x-headquarters
+    value: "Houston, Texas (US) / Rotterdam, Netherlands (registered office)"
+  - type: x-business-segments
+    value: |-
+      Olefins & Polyolefins — Americas; Olefins & Polyolefins — Europe, Asia,
+      International (EAI); Intermediates & Derivatives (I&D); Advanced Polymer
+      Solutions (APS); Refining (winding down 2025); Technology (process
+      licensing — Spheripol, Spherizone, Hostalen ACP, Lupotech)
+  - type: x-key-products
+    value: |-
+      Polyethylene (HDPE/LDPE/LLDPE), polypropylene (homopolymer/impact/random),
+      Catalloy, Polybutene-1, propylene oxide and derivatives (PO/SM, PO/TBA),
+      ETBE, MTBE, acetyls, oxyfuels, ethylene, propylene, CirculenRecover and
+      CirculenRenew sustainable polymers, engineered compounds and specialty powders
+  - type: x-houston-refinery-shutdown
+    value: |-
+      Cessation of operations at the Houston Refining facility (capacity
+      263,776 bpd, full-conversion heavy/high-sulfur crude) announced in 2023;
+      ramp-down began January 2025; operations ceased February 2025; 400+
+      employees laid off. Plant originally commissioned 1918 — first refinery
+      on the Houston Ship Channel — closure marks LyondellBasell's exit from
+      the refining business.
+  - type: x-developer-program
+    value: "None — no public APIs, no developer portal, no SDKs, no documentation"
+  - type: x-github-status
+    value: "Organization exists at github.com/LyondellBasell but has 0 public repositories"
+  - type: x-tagline
+    value: "Solutions for a better tomorrow"
+  - type: x-mission
+    value: "Creating solutions for everyday sustainable living"
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com

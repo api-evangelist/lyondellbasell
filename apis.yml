@@ -34,6 +34,8 @@ tags:
   - No APIs
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lyondellbasell-domain-security.yml
   - type: Website
     url: https://www.lyondellbasell.com
   - type: AboutUs

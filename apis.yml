@@ -14,6 +14,17 @@ description: |-
   Ship Channel when it opened in 1918 — eliminating more than 400 jobs and
   exiting the refining business entirely. Profiled as a Tier 3 industrial /
   no-APIs provider for portfolio completeness.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://avatars.githubusercontent.com/u/lyondellbasell
 url: https://github.com/api-evangelist/lyondellbasell
 created: 2026-05-23

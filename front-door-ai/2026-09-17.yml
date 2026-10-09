@@ -9,10 +9,14 @@ front_door_ai:
   final_host: www.lyondellbasell.com
   ownership: own
   owner: lyondellbasell
-  shares_host_with: null
+  shares_host_with:
+  - a-schulman
   inherited_from: null
+  alias_of: null
   verdict: silent
   score: 0
+  band: 1
+  band_label: silent
   host_score: 0
   density: 0.0
   words: 811

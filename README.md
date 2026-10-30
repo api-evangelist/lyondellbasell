@@ -64,93 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LyondellBasell Industries N.V. (NYSE: **LYB**) is one of the world's largest
-producers of polymers and plastic resins. The company manufactures
-polyethylene, polypropylene, specialty polyolefins (Catalloy, Polybutene-1),
-chemicals, fuels, advanced polymer compounds, and licenses its Spheripol,
-Spherizone, Hostalen ACP, and Lupotech polyolefin process technologies. It also
-operates a Circular & Low Carbon Solutions business marketing CirculenRecover
-(mechanically recycled) and CirculenRenew (bio-based) polymers.
+LyondellBasell Industries N.V. (NYSE: LYB) is one of the world's largest producers of polymers and plastic resins, including polyethylene, polypropylene, and specialty polyolefins such as Catalloy and Polybutene-1. The company also produces chemicals, fuels, polyolefin process technology, and advanced polymer solutions, and operates a Circular & Low Carbon Solutions (CLCS) business marketing CirculenRecover and CirculenRenew recycled and renewable polymers. LyondellBasell has no public developer program, no API documentation, and no source code published in its (empty) GitHub organization. In January 2025 the company began the permanent closure of its Houston Refining facility — the 263,776 bpd, full-conversion plant that was the first refinery on the Houston Ship Channel when it opened in 1918 — eliminating more than 400 jobs and exiting the refining business entirely. Profiled as a Tier 3 industrial / no-APIs provider for portfolio completeness.
 
-LyondellBasell is headquartered operationally in Houston, Texas, with its
-registered office in Rotterdam, the Netherlands, and employs roughly **19,000**
-people worldwide.
+**Areas:** Petrochemicals · Polymers · Polyolefins · Polyethylene · Polypropylene · Chemicals · Plastics · Refining · Industrial · Sustainability · Recycled Plastics · No APIs
 
-> "LyondellBasell (LYB) is a leader in the global chemical industry, guided by
-> our purpose of creating solutions for everyday sustainable living."
-> — lyondellbasell.com/en/about-us
+## LyondellBasell on APIs.io
 
-## Business Segments
+Everything profiled for LyondellBasell is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lyondellbasell/](https://apis.io/providers/lyondellbasell/)** — or go straight to one of the APIs or properties below.
 
-| Segment | Notes |
-| --- | --- |
-| Olefins & Polyolefins — Americas (O&P AMS) | Ethylene, propylene, PE, PP across US and South America |
-| Olefins & Polyolefins — Europe, Asia, International (O&P EAI) | PE, PP, ethylene, propylene outside the Americas |
-| Intermediates & Derivatives (I&D) | Propylene oxide (PO/SM, PO/TBA), oxyfuels (ETBE, MTBE), acetyls, styrene |
-| Advanced Polymer Solutions (APS) | Compounded, engineered polymers and specialty powders |
-| Refining | **Winding down** — Houston Refinery ceased operations February 2025 |
-| Technology | Polyolefin process licensing (Spheripol, Spherizone, Hostalen ACP, Lupotech) |
+### Published properties
 
-## Houston Refining Shutdown (2025)
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-LyondellBasell initially announced in 2023 that exiting the refining business
-was the "best strategic and financial path forward" for the company. The
-Houston Refinery — the **first refinery built along the Houston Ship Channel
-when it opened in 1918** — was a full-conversion plant capable of processing
-**263,776 barrels per day** of heavy, high-sulfur crude oil.
+#### Security (1)
 
-- **Ramp-down start**: late January 2025
-- **Operations ceased**: February 2025
-- **Layoffs**: 400+ employees
-- **Strategic effect**: full exit from the refining business; LyondellBasell
-  now positions itself as a pure-play petrochemicals, polymers, and circular
-  solutions company
+Authentication, trust centre, and vulnerability disclosure.
 
-This closure is widely viewed as a milestone in the broader shift away from
-US Gulf Coast refining toward downstream chemicals and circular plastics.
+- [Lyondellbasell Domain Security](https://apis.io/security/lyondellbasell/lyondellbasell-domain-security/)
 
-## Sustainability / Circular Portfolio
+## Where to find this API
 
-- **CirculenRecover** — mechanically recycled polymers
-- **CirculenRenew** — polymers from bio-based feedstocks
-- Targets aligned with the Circular & Low Carbon Solutions (CLCS) business
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Developer / API Surface
+- [Website](https://www.lyondellbasell.com)
+- [GitHub](https://github.com/LyondellBasell)
 
-| Surface | Status |
-| --- | --- |
-| Public REST/GraphQL API | None |
-| Developer portal | None |
-| OpenAPI / AsyncAPI / Postman | None |
-| SDKs / CLIs | None |
-| Webhooks / Events | None |
-| Public GitHub organization | [github.com/LyondellBasell](https://github.com/LyondellBasell) — **exists but contains 0 public repositories** |
-| RSS / Changelog | News releases via investor relations only |
-| Status page | None public |
+## API Evangelist rating
 
-LyondellBasell has no public developer program. This repo is profiled
-**for portfolio and landscape completeness only** — to anchor the petrochemicals
-industry segment of the API Evangelist network alongside Dow, ExxonMobil
-Chemical, INEOS, SABIC, and BASF, and to document the rapid contraction of
-US Gulf Coast refining capacity exemplified by the 2025 Houston shutdown.
+**Kin Score 3.8** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Key Links
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
 
-- Corporate: <https://www.lyondellbasell.com>
-- About: <https://www.lyondellbasell.com/en/about-us/>
-- Products & Technology: <https://www.lyondellbasell.com/en/products-technology/>
-- News & Events: <https://www.lyondellbasell.com/en/news-events/>
-- Investor Relations: <https://investors.lyondellbasell.com/overview/>
-- SEC filings (CIK 0001489393): <https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001489393>
-- GitHub: <https://github.com/LyondellBasell>
+**Agent readiness 0.0** — human-only
 
-## Pipeline Run
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-- **x-type**: company
-- **x-tier**: 3 (no-apis)
-- **Profiled**: 2026-05
-- **Artifacts**: `apis.yml`, `README.md` only (no OpenAPI/AsyncAPI/schemas — no
-  API surface exists to model)
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
----
-Maintained by [Kin Lane](https://apievangelist.com), API Evangelist.
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lyondellbasell/](https://apis.io/providers/lyondellbasell/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LyondellBasell: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lyondellbasell/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
